@@ -1,6 +1,6 @@
 contact: Add your name here
 email: Add your email address here
-created: '2025-05-08'
+created: '2025-10-23'
 description: |-
   1 degree ACCESS-OM2 global model configuration under interannual forcing.
   The configuration is based on that described in Kiss et al. (2020),
@@ -33,8 +33,8 @@ license: CC-BY-4.0
 model: ACCESS-OM2
 version: '2.0'
 url: https://github.com/ACCESS-NRI/access-om2-configs
-experiment_uuid: 910baee7-941d-4cd2-89bb-57b19a13ddb0
-name: 1deg_jra55_iaf-expt-910baee7
+experiment_uuid: b98b04f2-b89a-4978-a3a3-f79ee4b32289
+name: 1deg_jra55_iaf-b98b04f2
 schema_version:  # The version of the schema (string)
 long_description: # Long description of the experiment (string)
 frequency: # The frequency(/ies) included in the experiment (string)
