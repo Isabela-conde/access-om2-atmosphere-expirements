@@ -48,11 +48,11 @@
       "cname": "uwnd_ai",
         "perturbations": [
             {
-                "type": "offset",
-                "dimension": "spatiotemporal",
-                "value": "INPUT/uas_input4MIPs_atmosphericState_OMIP_MRI-JRA55-do-1-4-0_gr_Tropical_Pacific_ERA5_Trend_Bias_Perturbation.nc",
+                "type": "separable",
+                "dimension": ["temporal","spatial"],
+                "value": ["INPUT/uas_input4MIPs_atmosphericState_ts_1958-2018_temporal.nc","INPUT/uas_input4MIPs_atmosphericState_ERA5_trend-diff_1982-2017_spatial.nc"],
                 "calendar": "forcing", 
-                "comment": "Trend adjustment to merra2"
+                "comment": "separable trend adjustment to trend with uas era5"
             }
         ]
     },

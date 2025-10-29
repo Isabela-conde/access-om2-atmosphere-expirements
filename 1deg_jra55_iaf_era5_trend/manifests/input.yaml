@@ -2821,11 +2821,11 @@ work/atmosphere/INPUT/tas_input4MIPs_atmosphericState_OMIP_MRI-JRA55-do-1-4-0_gr
   hashes:
     binhash: 4f94260ac016eb78c443ba784c78a669
     md5: 837cc3100dccb5252d76eeb62d189cda
-work/atmosphere/INPUT/uas_TropPac_ERA5minusJRA55_trend_bias_timeseries.nc:
-  fullpath: /g/data/e14/ic0706/access-om2/forcing_perturbations/uas_TropPac_ERA5minusJRA55_trend_bias_timeseries.nc
+work/atmosphere/INPUT/uas_input4MIPs_atmosphericState_ERA5_trend-diff_1982-2017_spatial.nc:
+  fullpath: /g/data/e14/ic0706/access-om2/forcing_perturbations/uas_input4MIPs_atmosphericState_ERA5_trend-diff_1982-2017_spatial.nc
   hashes:
-    binhash: 25375b2aed451163c68d6d7a5db1363d
-    md5: cfb487c11ca5b54519a0ff1f0130d9d7
+    binhash: 59dd3aeae0ae67c0a59df3e51b3afce5
+    md5: bdb40ba2d248991616c3d7061839cf1c
 work/atmosphere/INPUT/uas_input4MIPs_atmosphericState_OMIP_MRI-JRA55-do-1-4-0_gr_195801010000-195812312100.nc:
   fullpath: /g/data/qv56/replicas/input4MIPs/CMIP6/OMIP/MRI/MRI-JRA55-do-1-4-0/atmos/3hrPt/uas/gr/v20190429/uas_input4MIPs_atmosphericState_OMIP_MRI-JRA55-do-1-4-0_gr_195801010000-195812312100.nc
   hashes:
@@ -3146,16 +3146,11 @@ work/atmosphere/INPUT/uas_input4MIPs_atmosphericState_OMIP_MRI-JRA55-do-1-4-0_gr
   hashes:
     binhash: ae12e66d7d4cbac867e0997f9192b618
     md5: e604628b0f2f6fc71dab397802f8177b
-work/atmosphere/INPUT/uas_input4MIPs_atmosphericState_OMIP_MRI-JRA55-do-1-4-0_gr_Tropical_Pacific_Perturbation.nc:
-  fullpath: /g/data/e14/ic0706/access-om2/forcing_perturbations/uas_input4MIPs_atmosphericState_OMIP_MRI-JRA55-do-1-4-0_gr_Tropical_Pacific_Perturbation.nc
+work/atmosphere/INPUT/uas_input4MIPs_atmosphericState_ts_1958-2018_temporal.nc:
+  fullpath: /g/data/e14/ic0706/access-om2/forcing_perturbations/uas_input4MIPs_atmosphericState_ts_1958-2018_temporal.nc
   hashes:
-    binhash: 573c25b58ecdee64b07c67a72c69a317
-    md5: d10d74edc07bb138eb7eb0b772fb2ea3
-? work/atmosphere/INPUT/uas_input4MIPs_atmosphericState_OMIP_MRI-JRA55-do-1-4-0_gr_Tropical_Pacific_Trend_Bias_Perturbation.nc
-: fullpath: /g/data/e14/ic0706/access-om2/forcing_perturbations/uas_input4MIPs_atmosphericState_OMIP_MRI-JRA55-do-1-4-0_gr_Tropical_Pacific_Trend_Bias_Perturbation.nc
-  hashes:
-    binhash: 85709dce9fe1af2bf9d5e87afda5462b
-    md5: dfd22a6ec578961271277b1f8cde92bb
+    binhash: 09dbeecc9a0c173ee5cdcf8887f0ec72
+    md5: eccb6c147810031536ef67599e4bfa1b
 work/atmosphere/INPUT/vas_input4MIPs_atmosphericState_OMIP_MRI-JRA55-do-1-4-0_gr_195801010000-195812312100.nc:
   fullpath: /g/data/qv56/replicas/input4MIPs/CMIP6/OMIP/MRI/MRI-JRA55-do-1-4-0/atmos/3hrPt/vas/gr/v20190429/vas_input4MIPs_atmosphericState_OMIP_MRI-JRA55-do-1-4-0_gr_195801010000-195812312100.nc
   hashes:
