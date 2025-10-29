@@ -1,0 +1,8 @@
+archive
+work
+__pycache__
+access-om2.err
+access-om2.out
+*.[eo][0-9]*
+.DS_Store
+._*
